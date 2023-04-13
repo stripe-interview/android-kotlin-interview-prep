@@ -4,13 +4,12 @@ Thanks for interviewing at Stripe. At Stripe, our interview process has some int
 write code, typically on your laptop. To make sure that we can use our time best in the interviews,
 we'd like to have you do some setup on your laptop in advance.
 
+We've created a gradle project to help candidates determine if their laptops were setup to write
+Kotlin, so interviews can be about evaluating the candidate, and not the way their environment is
+setup.
+
 First, clone or download this repository to your computer via the links on the right
 (creating a fork of the repository is not necessary).
-
-We've created a (rather ad-hoc) gradle project to help candidates
-determine if their laptops were setup to write Kotlin, so interviews can
-be about evaluating the candidate, and not the way their environment is
-setup.
 
 ## Using Android Studio
 
