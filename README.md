@@ -1,11 +1,11 @@
 # Motivation:
 
-At Stripe, our interview process has some interviews where you write
-code, typically on your laptop.
+Thanks for interviewing at Stripe. At Stripe, our interview process has some interviews where you
+write code, typically on your laptop. To make sure that we can use our time best in the interviews,
+we'd like to have you do some setup on your laptop in advance.
 
-We've noticed that more often than not, we've had to spend a significant
-portion of the interview helping candidates setup a maven-based Java
-environment on their personal laptops.
+First, clone or download this repository to your computer via the links on the right
+(creating a fork of the repository is not necessary).
 
 We've created a (rather ad-hoc) gradle project to help candidates
 determine if their laptops were setup to write Kotlin, so interviews can
@@ -19,7 +19,7 @@ To open the project in Android Studio:
 - Select `File > Open...` from the menu.
 - Select `Trust project`
 - Select `File > Sync project with gradle files`
-- Ensure that you have an emulator running Android 9+ set up:
+- Ensure that you have an emulator running Android 9 (API level 28) set up:
     https://developer.android.com/studio/run/emulator
 - Run the `app` target on your locally configured Android emulator
 
