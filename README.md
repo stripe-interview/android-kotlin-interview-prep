@@ -14,10 +14,10 @@ First, clone or download this repository to your computer via the links on the r
 ## Using Android Studio
 
 To open the project in Android Studio:
-- Make sure you have Android Studio v3.6 or later installed on your computer
+- Make sure you have the latest stable version of Android Studio installed on your computer
 - Select `File > Open...` from the menu.
 - Select `Trust project`
-- Select `File > Sync project with gradle files`
+- Select `File > Sync Project with Gradle Files`
 - Ensure that you have an emulator running Android 9 (API level 28) set up:
     https://developer.android.com/studio/run/emulator
 - Run the `app` target on your locally configured Android emulator
